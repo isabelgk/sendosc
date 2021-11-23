@@ -36,5 +36,6 @@ usage : sendosc dst_host dst_port path [[type] [param]] ...
 
 ## Copyright and license
 Copyright (c) 2015 yoggy
+Copyright (c) 2021 Isabel Kaspriskie
 
 Released under the [MIT license](LICENSE.txt)
